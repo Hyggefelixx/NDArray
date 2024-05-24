@@ -33,5 +33,6 @@ int main() {
      NDArray arr(shape1, initData);
      arr.print();
 
+     cout << "Welcome" << endl;
     return 0;
 }
