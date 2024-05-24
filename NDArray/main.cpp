@@ -33,5 +33,7 @@ int main() {
      NDArray arr(shape1, initData);
      arr.print();
 
+     cout << "Welcome to Hygggefelixx's first program on Github" << endl;
     return 0;
+
 }
