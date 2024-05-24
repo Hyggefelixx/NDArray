@@ -108,4 +108,3 @@ int NDArray::calculate_stride(int dim) const {
     return stride;
 }
 
-
